@@ -47,5 +47,33 @@ Entre estas, he decidido analizar las webs de tres empresas de este ámbito: *er
 
 En general , las empresas mencionadas tienen un esquema genérico. En una primera plana explican el concepto de *coworking*, los servicios que ofrecen, y algo que diferencie a los demás (como los casos de éxito , las referencias en medios de prensa tradicional y digital o servicios extra como una sección de comunicación visual). Una cosa que me ha llamado la atención es el chat de ayuda online de *CubiKate* y que no se pueda reservar una oficina o salón de eventos online, o al menos un pequeño formulario específico para ello.
 
+A partir de aquí tenemos que centrarnos en una de las tres webs para enfocar el proyecto. En mi caso, elegiré *Cubikate* ya que está bastante completo y puede que con unas cuantas decisiones más de diseño y funcionalidad podría mejorarse más.
+
+## 2. Mapa de empatía, Personas y Journey Maps. ¿Qué opinan los usuarios?
+---
+
+### 2.1 Empathy Map
+Antes de nada, he empezado en pensar en ideas relacionadas con este concepto y los he clasificado, de forma que se pudieran representar en un Empathy Map
+
+![Empathy Map](img/EmpathyMap.jpg)
+
+Aquí podemos destacar que la idea de esto al final es *"Quiero un sitio para trabajar que no sea en casa, pero temo tener que alquilar una oficina o despacho para mí con lo que cuesta, y no usarlo siempre"*. Puede haber algunas frustaciones y metas que se corresponderían con las ventajas y desventajas que se han comentado al inicio.
+
+### 2.2 Personas
+A partir de aquí podemos proceder a crear unas personalidades que den puntos de vista diferentes.
+
+*Arcadia*: En esta persona podemos ver que es una nómada, alguien que no tiene una estabilidad debido a sus viajes pero de vez en cuando necesita un sitio para hacer su trabajo fuera de casa.
+
+![Persona 1](img/Persona1.png)
+
+*Juan*: Esta persona es alguien asentado en la ciudad que trabaja desde remoto en una pequeña empresa y necesitaría un sitio fijo pero no es que gane lo suficiente para tener despacho propio.
+
+![Persona 2](img/Persona2.png)
+
+### 2.3 Journey Map
+Para este suceso, Arcadia estará en Granada unos días, de los cuales invertirá 2 en gestionar sus cosas, y para ello quiere un espacio fuera de su hotel.
+
+![Journey Map](img/JourneyMap.png)
+
 
 
