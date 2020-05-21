@@ -75,5 +75,19 @@ Para este suceso, Arcadia estará en Granada unos días, de los cuales invertir�
 
 ![Journey Map](img/JourneyMap.png)
 
+## 3. Informe de usabilidad
+---
 
+Vayamos punto por punto.
 
+#### Funcionalidad
+En general, las características y la funcionalidad cumplen con las metas comunes al usuario y con compatibles con los workflows de los usuarios. Sin embargo, no hay atajos para expertos, pero no es muy importante, pues no hay muchos subniveles y no es una página con una parte específica de usuarios.
+#### Homepage
+#### Navegación
+#### Búsqueda
+#### Control y feedback
+#### Formularios
+#### Errores
+#### Contenido y texto
+#### Ayuda
+#### Rendimiento
