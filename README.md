@@ -9,8 +9,11 @@ Atendiendo a las definiciones que se frecuentan por la red de redes, un *espacio
 Tal vez quien esté leyendo este repositorio diga *"Pero para eso podría hacerlo en la comodidad de mi casa..."* Pero hay cosas que no podrías lograr en casa y sí en un entorno como una oficina, y esa es la oportunidad de trabajar en un entorno laboral con la flexibilidad que uno pueda tener. Además eso aumentaría la red de contactos laborales y empresariales que uno tiene, cosa que los gestores de estos espacios frecuentan hacer y propiciar.
 Como todo, tiene sus inconvenientes, como la pérdida de privacidad empresarial (estás compartiendo oficina con otras empresas) y que la oficina puede estar con mucho ruido o con un silencio sepulcral.
 Para más información sobre el tema, adjunto algunas fuentes:
+
 [Noticia de El Diario](https://www.eldiario.es/turing/coworking-ventajas-desventajas_0_208929234.html)
+
 [Algunos casos sonados de éxito surgidos en *espacios de coworking*](https://coworkingspain.es/magazine/noticias/por-que-uber-nacio-en-un-coworking)
+
 [Una página que recopila los espacios de *coworking* en España](https://coworkingspain.es/)
 
 ## 1. Análisis competitivo. ¿Cómo es el *Coworking* en Granada?
