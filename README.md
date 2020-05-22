@@ -152,3 +152,5 @@ Una vez vista la propuesta de valor, procedemos a ver el flujo del sitio, sin en
 |Contacto|Contact us| Formulario de contacto para consultas varias (que no sean reservas) 
 
 ## 6. Wireframes. Un esbozo del rediseño.
+#### Página de inicio
+![Inicio](img/Inicio.png)
