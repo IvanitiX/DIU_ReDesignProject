@@ -71,7 +71,7 @@ A partir de aquí podemos proceder a crear unas personalidades que den puntos de
 ![Persona 2](img/Persona2.png)
 
 ### 2.3 Journey Map
-Para este suceso, Arcadia estará en Granada unos días, de los cuales invertirá 2 en gestionar sus cosas, y para ello quiere un espacio fuera de su hotel.
+Para este suceso, Arcadia estará en Granada unos días, de los cuales invertirá 2 en gestionar sus gestiones empresariales, y para ello quiere un espacio fuera de su hotel.
 
 ![Journey Map](img/JourneyMap.png)
 
@@ -106,4 +106,16 @@ Una cosa que es muy relevante de esta página es su centro de ayuda, de hecho es
 En general, el rendimiento ayuda a que la experiencia de usuario sea buena, sin inhibirse por los errores que puedan suceder.
 
 ## 4. Feedback capture grid
+|Lo interesante|Críticas|
+|-|-|
+|Chat de ayuda|No hay función de búsqueda|
+|Errores descriptivos|Solo un formulario para todo|
+|No hay versión <br> en otro idioma| Muchas fotos algo desordenadas|
+
+
+|Preguntas a partir<br>de la experiencia|Nuevas ideas|
+|-|-|
+|Quiero saber más información sobre <br> esas empresas que promocionas, <br> ¿por qué no verlo en su página?|Reserva online|
+|¿Qué servicios hay en la sala <br>de reuniones?|Poner un horario|
+
 
