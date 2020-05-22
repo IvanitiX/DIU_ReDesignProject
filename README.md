@@ -152,5 +152,25 @@ Una vez vista la propuesta de valor, procedemos a ver el flujo del sitio, sin en
 |Contacto|Contact us| Formulario de contacto para consultas varias (que no sean reservas) 
 
 ## 6. Wireframes. Un esbozo del rediseño.
+---
 #### Página de inicio
 ![Inicio](img/Inicio.png)
+#### Página de espacios
+![Espacios](img/Espacios.png)
+#### Página de tarifas
+![Tarifas](img/Tarifas.png)
+#### Página de reserva
+![Reservas](img/Reserva.png)
+
+## 7. Guidelines. Colores, letras y normas de estilo.
+---
+Para las guidelines seguiremos las tendencias que se dan últimamente. La idea es que la homepage logre captar la atención del usuario, y las demás páginas son ya para complementar y seguir un hilo conductor. Como es una web, el diseño debería ser resonsivo y con una consistencia en cuestiones de diseño. La información debería ser clara y concisa, enfatizando lo más importante, manteniendo así un diseño simple.
+
+Así pues, dejo en la siguiente infografía una serie de tipografías y colores, dejando en medida de lo posible lo que ya estaba hecho. Por tanto, mantendremos el logo, la iconografía (con color cambiado) y el azul #406175.
+
+#### Colores
+![Colores](img/Colores.png)
+#### Tipografías
+**Títulos: *Fira Sans*** <img src="img/FiraSans.png">
+**Contenido: *Lato*** <img src="img/Lato.png">
+
