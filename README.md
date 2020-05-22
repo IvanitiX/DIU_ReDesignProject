@@ -172,5 +172,7 @@ Así pues, dejo en la siguiente infografía una serie de tipografías y colores,
 ![Colores](img/Colores.png)
 #### Tipografías
 **Títulos: *Fira Sans*** <img src="img/FiraSans.png">
+
+
 **Contenido: *Lato*** <img src="img/Lato.png">
 
