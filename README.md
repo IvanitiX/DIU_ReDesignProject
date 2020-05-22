@@ -89,7 +89,7 @@ El diseño de la página es bastante claro, con un espacio en blanco justito. Un
 #### Navegación
 Al ser una palabra que no se recurre, es fácil encontrarlo en las principales páginas de búsqueda.
 
-La navegación es clara, con enlaces descriptivos, y se puede usar las funciones estándar del navegador.
+La navegación es clara, con enlaces descriptivos, y se puede usar las funciones estándar del navegador. Eso sí, al navegar por la página vi que el HomePage y la pestaña Coworking son casi iguales.
 #### Búsqueda
 No hay una función de búsqueda, lo que podría ser interesante en un rediseño.
 #### Control y feedback
@@ -105,7 +105,9 @@ Una cosa que es muy relevante de esta página es su centro de ayuda, de hecho es
 #### Rendimiento
 En general, el rendimiento ayuda a que la experiencia de usuario sea buena, sin inhibirse por los errores que puedan suceder.
 
-## 4. Feedback capture grid
+## 4. Feedback capture grid y Propuesta de Valor. ¿Qué podemos mejorar?
+---
+### 4.1 Matriz de captura de feedback
 |Lo interesante|Críticas|
 |-|-|
 |Chat de ayuda|No hay función de búsqueda|
@@ -117,5 +119,19 @@ En general, el rendimiento ayuda a que la experiencia de usuario sea buena, sin 
 |-|-|
 |Quiero saber más información sobre <br> esas empresas que promocionas, <br> ¿por qué no verlo en su página?|Reserva online|
 |¿Qué servicios hay en la sala <br>de reuniones?|Poner un horario|
+|¿No es parecido el Homepage y la <br> sección Coworking?|Añadir las tarifas|
 
+### 4.2 Propuesta de valor
 
+Mi propuesta sería solo una serie de modificaciones sobre la base que ya estaba bastante bien de por sí.
+>
+>- Unir el homepage y la sección Coworking en el homepage.
+>- Añadir las tarifas en una nueva sección
+>- Poner varios formularios para algunos casos, y no usar un único. Por ejemplo, uno para contacto de información, y otros para hacer las reservas (de espacios de trabajos o de salas de reuniones) online.
+>- Añadir una versión en inglés (y/u otros idiomas). Eso implicaría crear nuevos labellings.
+>- Añadir una función de búsqueda para efectuar preguntas. Por ejemplo, *"¿Cuánto vale alquilar la sala de reuniones?"*.
+>- Añadir una sección de Tarifas. 
+>- Añadir una galería de imágenes, quizás tipo carrousel.
+>- Añadir el horario del espacio.
+
+## 5. 
