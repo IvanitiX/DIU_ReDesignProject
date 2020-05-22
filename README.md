@@ -83,11 +83,27 @@ Vayamos punto por punto.
 #### Funcionalidad
 En general, las características y la funcionalidad cumplen con las metas comunes al usuario y con compatibles con los workflows de los usuarios. Sin embargo, no hay atajos para expertos, pero no es muy importante, pues no hay muchos subniveles y no es una página con una parte específica de usuarios.
 #### Homepage
+La página de inicio es un reflejo de la empresa. Los contenidos que se muestran son claros y llaman a la acción de la gente desde el minuto 1.
+
+El diseño de la página es bastante claro, con un espacio en blanco justito. Una cosa que me llama la atención es un pequeño carrousel que muestra miniaturas de imágenes de la oficina
 #### Navegación
+Al ser una palabra que no se recurre, es fácil encontrarlo en las principales páginas de búsqueda.
+
+La navegación es clara, con enlaces descriptivos, y se puede usar las funciones estándar del navegador.
 #### Búsqueda
+No hay una función de búsqueda, lo que podría ser interesante en un rediseño.
 #### Control y feedback
+La página es rápida en la respuesta. No puedo hablar de elementos de contral ya que no hay items o procedimientos dentro de la web (es una web de información, y apenas tiene un formulario de contacto)
 #### Formularios
+Solo hay un formulario de contacto, recurrido para todo lo necesario. Para los campos requeridos lo señala con `*`. La información que requieren es mínima y relevante
 #### Errores
+Los errores son descriptivos y se sitúan en las zonas donde están los errores. Guardan la info del formulario para poder corregirlo.
 #### Contenido y texto
+El contenido es fácil de entender, con un tono apropiado. Sin embargo, no he visto una versión inglesa o al menos en otro idioma, cosa que en el análisis competitivo vimos que sus competidores sí tenian. El texto es legible, y se puede escanear e imprimir sin problemas.
 #### Ayuda
+Una cosa que es muy relevante de esta página es su centro de ayuda, de hecho es muy similar al de Whatsapp, haciendo así una metáfora que sea fácil de entender y usar.
 #### Rendimiento
+En general, el rendimiento ayuda a que la experiencia de usuario sea buena, sin inhibirse por los errores que puedan suceder.
+
+## 4. Feedback capture grid
+
