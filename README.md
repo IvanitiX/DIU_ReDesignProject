@@ -117,7 +117,7 @@ En general, el rendimiento ayuda a que la experiencia de usuario sea buena, sin 
 
 |Preguntas a partir<br>de la experiencia|Nuevas ideas|
 |-|-|
-|Quiero saber más información sobre <br> esas empresas que promocionas, <br> ¿por qué no verlo en su página?|Reserva online|
+|Quiero saber más información sobre <br> esas empresas que promocionas, <br> ¿dónde puedo verlo?|Reserva online|
 |¿Qué servicios hay en la sala <br>de reuniones?|Poner un horario|
 |¿No es parecido el Homepage y la <br> sección Coworking?|Añadir las tarifas|
 
@@ -134,4 +134,21 @@ Mi propuesta sería solo una serie de modificaciones sobre la base que ya estaba
 >- Añadir una galería de imágenes, quizás tipo carrousel.
 >- Añadir el horario del espacio.
 
-## 5. 
+## 5. Sitemap y Labelling. La estructura del diseño.
+---
+### 5.1 Sitemap
+Una vez vista la propuesta de valor, procedemos a ver el flujo del sitio, sin entrar en cómo entrarán, cosa que se verá en siguientes pasos.
+
+![Sitemap](img/Sitemap.png)
+
+### 5.2 Labelling
+|Español|English|Significado|
+|-------|-------|-----------|
+|Inicio|Homepage| Página de inicio de la web|
+|Espacios| Facilities| Página donde se habla de las salas de reuniones <br> y de los espacios de trabajo.
+|Oficina Virtual|Virtual Office| Página específica sobre el servicio de Oficina Virtual|
+|Tarifas|Tariffs|Muestra las tarifas por los espacios de la empresa|
+|Reserva|Reserve| En esta sección se rellena la información para efectuar la reserva online. Si hubiera que hacer pagos, quedaría en disposición de la empresa cómo hacerlo, quizás por TPV, PayPal y Pago presencial.
+|Contacto|Contact us| Formulario de contacto para consultas varias (que no sean reservas) 
+
+## 6. Wireframes. Un esbozo del rediseño.
